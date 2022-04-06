@@ -4,7 +4,8 @@ I have created a dynamic README generator for users to help speed along the proc
 
 This is an assignment given to me by the UA full-stack bootcamp that contained some starter code.
 
-# LINKS
+# DEMO
+![Demo](https://user-images.githubusercontent.com/99926698/162090120-eab4ae99-d8c3-4d77-9904-5e404067a14e.mp4)
 
-[Demo](https://watch.screencastify.com/v/H6FLWxZwTmhx1SHXoSa8)
+# Repository on GitHub
 [Repository](https://github.com/dlzinck/README_Generator)
